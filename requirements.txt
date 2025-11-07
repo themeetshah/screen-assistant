@@ -1,0 +1,23 @@
+# Core AI + Voice
+openai-whisper
+sounddevice
+numpy
+pyttsx3
+
+# Vision + OCR
+opencv-python
+pillow
+pytesseract
+
+# Automation + System
+pyautogui
+pygetwindow
+psutil
+
+# Reasoning (Gemini)
+google-generativeai
+
+# Config + Utilities
+python-dotenv
+urllib3
+requests

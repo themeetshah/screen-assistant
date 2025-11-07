@@ -1,0 +1,66 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Virtual Environment ---
+.venv/
+venv/
+env/
+ENV/
+*.env.bak
+
+# --- Environment Files ---
+.env
+.env.local
+.env.development
+.env.production
+
+# --- Logs ---
+*.log
+logs/
+debug.log
+
+# --- Cache & Temp ---
+*.cache
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+*.swp
+
+# --- Model / Audio / Vision Data ---
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.tiff
+*.gif
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+screenshots/
+recordings/
+
+# --- Pytesseract / OCR ---
+tessdata/
+
+# --- Python Build ---
+build/
+dist/
+*.egg-info/
+
+# --- IDEs ---
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# --- Mistakes & Learning Data ---
+mistakes.json
